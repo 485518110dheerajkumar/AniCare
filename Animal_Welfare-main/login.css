@@ -1,0 +1,81 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	 
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+     
+    
+}
+.container-sm{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    color: #767941;
+    opacity: 0.7;
+    background: #FFFEF5 url(images/img01.gif);
+}
+.container img{
+    height: 8em;
+    border-radius: 50%;
+    text-align: center;
+    background: transparent;
+     
+}
+ 
+.container span{
+    color: orange;
+    font-size: 4em;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.container-sml{
+    text-align: center;
+    margin: 0px 5em;
+    background: #FFFEF5 url(images/img01.gif);
+    border-radius: 5px;
+    
+}
+.container-sml span{
+    color: orange;
+    font-weight: bold;
+    font-size: 30px;
+}
+.container-sml button{
+    margin-top: 8px;
+    opacity: 0.9;
+    font-weight: bold;
+    width: 8em;
+
+}
+.container-sml button:hover{
+    background-color: aqua;
+    color: white;
+    font-size: 17px;
+}
+.input{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 10px;
+     
+}
+section p{
+    font-size: 15px;
+    margin-top: 7px; 
+    margin-bottom: 7px;
+}
+section p a{
+    font-size: 15px;
+    text-decoration: none;
+}
+section p a:hover{
+    color: red;
+    font-size: 16px;
+}
+.s1{
+    margin-top: 10px;
+    text-align: left;
+}
