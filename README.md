@@ -36,4 +36,4 @@ Mobile-Friendly Design: Ensuring the site is responsive and works well on all de
 Each of these components helps create a comprehensive and effective animal care website that meets the needs of pet owners,
 potential adopters, and those interested in learning more about animal welfare.
 
-#Thank you
+Thank you
