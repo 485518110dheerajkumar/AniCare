@@ -37,5 +37,6 @@ Each of these components helps create a comprehensive and effective animal care 
 potential adopters, and those interested in learning more about animal welfare.
 
 This is the video link : " https://github.com/485518110dheerajkumar/AniCare/blob/main/screen-recording-2024-08-22-205137_p3riB80I%20(1).mp4 ".
+here you click on " row view " after that you can see the video on your screen.
 
 Thank you
